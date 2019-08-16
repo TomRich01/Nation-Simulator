@@ -10,3 +10,7 @@ I would like to see this project be used for governments that are willing to loo
 Since I'm not a very good programmer, I could use help.
 
 Much needs implementation such as economy, banking, investing, housing, and UI... UI is a huge pain for some reason.
+
+### Technologies and their use
+
+So far, HTML, CSS, and Javascript are being used. I've included Boostrap, but will be trying to cut it out after I get CSS Grids and Flexbox working. Vue.js will probably take the place of JQuery (maybe).
