@@ -7,8 +7,6 @@ I would like to see this project be used for governments that are willing to loo
 
 ## Contributors
 
-Since I'm not a very good programmer, I could use help.
-
 Much needs implementation such as economy, banking, investing, housing, and UI... UI is a huge pain for some reason.
 
 ### Technologies and their use
